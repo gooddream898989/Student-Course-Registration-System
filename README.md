@@ -1,13 +1,13 @@
 # Student-Management-System
 Student Management System
 
-##📌 Project Overview
+## 📌 Project Overview
 
 The Student Management System is a Java-based application developed as part of my B.Tech learning. It is designed to manage student information, course details, and student registrations efficiently.
 
 The project demonstrates the use of Object-Oriented Programming (OOP), File Handling, Exception Handling, and Java concepts.
 
-##🚀 Features
+## 🚀 Features
 
 - Add and manage student details.
 - Manage course information.
@@ -17,7 +17,7 @@ The project demonstrates the use of Object-Oriented Programming (OOP), File Hand
 - Handle registration errors using exception handling.
 - Maintain student, course, and registration records.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Programming Language: Java
 - Concepts: Object-Oriented Programming (OOP)
@@ -25,7 +25,7 @@ The project demonstrates the use of Object-Oriented Programming (OOP), File Hand
 - Exception Handling: Custom Exception Handling
 - IDE: Any Java-supported IDE
 
-##📂 Project Structure
+## 📂 Project Structure
 ```
 Student-Management-System/
 │
@@ -46,7 +46,7 @@ Student-Management-System/
 ├── README.md
 └── .gitignore
 ```
-##▶️ How to Run the Project
+## ▶️ How to Run the Project
 
 1. Clone the repository:
 
@@ -64,7 +64,7 @@ java Main
 
 Note: Make sure Java JDK is installed on your computer.
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 - Understanding Object-Oriented Programming.
 - Implementing classes and interfaces.
@@ -72,10 +72,10 @@ Note: Make sure Java JDK is installed on your computer.
 - Understanding exception handling.
 - Managing student and course records.
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Developed as a B.Tech academic project.
 
-##📜 License
+## 📜 License
 
 This project is created for educational and learning purposes.
